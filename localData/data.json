@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "danjianbao",
+    "name": "单肩包"
+  },
+  {
+    "icon": "liantiaobao",
+    "name": "链条包"
+  },
+  {
+    "icon": "qianbao",
+    "name": "钱包"
+  },
+  {
+    "icon": "shoutibao",
+    "name": "手提包"
+  },
+  {
+    "icon": "shuangjianbao",
+    "name": "双肩包"
+  },
+  {
+    "icon": "xiekuabao",
+    "name": "斜挎包"
+  },
+  {
+    "icon": "gexingbao",
+    "name": "个性包"
+  },
+  {
+    "icon": "lvyoubao",
+    "name": "旅游包"
+  },
+  {
+    "icon": "mabubao",
+    "name": "麻布包"
+  }
+]
